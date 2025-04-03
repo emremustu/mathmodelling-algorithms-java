@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class SearchAlgorithm {
+public class FindingAlgorithm {
 
     public static void findMax(LinkedList<Integer> list){
         
